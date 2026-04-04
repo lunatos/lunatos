@@ -1,3 +1,7 @@
+<h2 align="center" font-weight="bold">
+   <img width="30" alt="duck dancing" src="https://i.imgur.com/GASCtfk.gif"/>
+</h2>
+
 <div align="center">
 👋 Olá, eu sou o Lucas
 <h4>
