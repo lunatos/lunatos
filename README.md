@@ -3,7 +3,6 @@
 </h2>
 
 <div align="center">
-👋 Olá, eu sou o Lucas
 <h4>
 🎓 Ciência da Computação (6º período)
 💻 Backend Developer | Java
