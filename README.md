@@ -16,7 +16,8 @@ Atualmente trabalho com Java e estou expandindo meus conhecimentos para o ecossi
 
 Tenho grande interesse em arquitetura de software, boas práticas e desenvolvimento de sistemas escaláveis.
 
-Curto resolver problemas, aprender coisas novas e transformar ideias em soluções reais.
+Curto resolver problemas, aprender coisas novas e transformar ideias em soluções reais. 
+Acesse meu porifólio em lunatos.github.io/Home/
 
 🌐 Conexões
 
