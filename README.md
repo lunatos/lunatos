@@ -18,7 +18,7 @@ Tenho grande interesse em arquitetura de software, boas práticas e desenvolvime
 
 Curto resolver problemas, aprender coisas novas e transformar ideias em soluções reais. 
 
-Acesse meu porifólio em <a href="lunatos.github.io/Home/">lunatos.github.io/Home/
+Acesse meu portfólio em <a href="https://lunatos.github.io/Home/">lunatos.github.io/Home/
    </a>
 
 🌐 Conexões
