@@ -24,7 +24,7 @@ Acesse meu porifólio em <a href="lunatos.github.io/Home/" target="_blank">lunat
 🌐 Conexões
 
    <a href="https://www.linkedin.com/in/lucas-camarino/" target="_blank"><img
-      width="40" height="40" target="_blank" alt="LinkedIn Logo"
+      width="40" height="40" target="_blank"
       src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/LinkedIn.svg">
    </a>
    <a href="mailto:lucascamarino@gmail.com" target="_blank"><img
